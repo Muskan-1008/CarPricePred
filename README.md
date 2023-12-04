@@ -1,2 +1,2 @@
-# CarPricePred
+# CarPricePrediction on Streamlit
 
